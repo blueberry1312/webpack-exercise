@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('./Lato-LightItalic.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  background: url('./icon.svg');
+  font-family: 'Lato', sans-serif;
+}
